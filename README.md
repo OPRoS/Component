@@ -3,8 +3,10 @@
                  OPRoS Source Codes Licensing Policy
 
 **********************************************************************/
-  The source code of OPRoS is provided under a dual license mode: 
-      LGPL (GNU Lesser General Public License) and Individual Commercial License. 
+
+  The source code of OPRoS is provided under a dual license mode:
+  
+     LGPL (GNU Lesser General Public License) and Individual Commercial License. 
 
   The Individual Commercial License is a license for modifying the source code of 
   OPRoS and distributing it in a closed format for commercial purposes.
