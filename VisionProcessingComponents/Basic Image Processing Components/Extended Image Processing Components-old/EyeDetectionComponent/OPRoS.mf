@@ -1,0 +1,12 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: EyeDetection.tar
+Archive-description: EyeDetection Component
+Element: EyeDetection.xml
+Element: EyeDetection.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+Element: lib/ 
+Element: haarcascade_eye.xml 
+Element: haarcascade_frontalface_alt.xml 

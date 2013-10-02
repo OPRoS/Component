@@ -1,0 +1,10 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: HandsTracking.tar
+Archive-description: HandsTracking Component
+Element: HandsTracking.xml
+Element: HandsTracking.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+

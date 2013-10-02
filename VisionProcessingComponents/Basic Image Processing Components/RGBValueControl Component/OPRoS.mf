@@ -1,0 +1,11 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: RGBValueControl.tar
+Archive-description: RGBValueControl Component
+Element: RGBValueControl.xml
+Element: RGBValueControl.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/
+
+

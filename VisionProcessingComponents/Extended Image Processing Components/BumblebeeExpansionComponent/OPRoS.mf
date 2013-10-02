@@ -1,0 +1,10 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: BumblebeeExpansion.tar
+Archive-description: BumblebeeExpansion Component
+Element: BumblebeeExpansion.xml
+Element: BumblebeeExpansion.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+

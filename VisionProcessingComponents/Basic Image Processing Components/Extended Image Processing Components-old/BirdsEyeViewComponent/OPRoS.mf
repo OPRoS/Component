@@ -1,0 +1,13 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: BirdsEyeView.tar
+Archive-description: BirdsEyeView Component
+Element: BirdsEyeView.xml
+Element: BirdsEyeView.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+Element: lib/ 
+Element: Distortion.xml 
+Element: Intrinsics.xml
+ 

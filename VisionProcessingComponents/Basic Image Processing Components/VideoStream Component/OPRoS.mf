@@ -1,0 +1,12 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: VideoStream.tar
+Archive-description: VideoStream Component
+Element: VideoStream.xml
+Element: VideoStream.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+Element: videoCapture.avi
+
+

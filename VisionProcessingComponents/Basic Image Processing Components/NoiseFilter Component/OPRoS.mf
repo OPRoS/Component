@@ -1,0 +1,9 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: NoiseFilter.tar
+Archive-description: NoiseFilter Component
+Element: NoiseFilter.xml
+Element: NoiseFilter.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 

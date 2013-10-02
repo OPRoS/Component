@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<service_port_type_profile>
+	<service_port_type>
+		<type_name>KinectService</type_name>
+		<method name="SetParameter" return_type="bool" call_type="blocking">
+			<param index="1">
+				<name>parameter</name>
+				<type>Property</type>
+			</param>
+		</method>
+		<method name="GetParameter" return_type="Property" call_type="blocking" />
+		<method name="SetCameraAngle" return_type="bool" call_type="blocking">
+			<param index="1">
+				<name>degree</name>
+				<type>float</type>
+			</param>
+		</method>
+		<method name="GetCameraAngle" return_type="float" call_type="blocking" />
+		<method name="GetSkeletonAll" return_type="vector&lt;Skeleton&gt;" call_type="blocking" />
+		<method name="GetSkeleton" return_type="Skeleton" call_type="blocking">
+			<param index="1">
+				<name>id</name>
+				<type>unsigned long</type>
+			</param>
+		</method>
+		<method name="GetSkeletonID" return_type="vector&lt;unsigned long&gt;" call_type="blocking" />
+		<method name="GetImage" return_type="ImageFrame" call_type="blocking" />
+		<method name="GetDepthImage" return_type="DepthFrame" call_type="blocking" />
+		<method name="GetPixelDepth" return_type="Position" call_type="blocking">
+			<param index="1">
+				<name>x</name>
+				<type>int</type>
+			</param>
+			<param index="2">
+				<name>y</name>
+				<type>int</type>
+			</param>
+		</method>
+	</service_port_type>
+</service_port_type_profile>
+

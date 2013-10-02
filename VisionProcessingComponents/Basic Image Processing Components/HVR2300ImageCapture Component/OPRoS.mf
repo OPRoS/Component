@@ -1,0 +1,16 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: HVR2300ImageCapture.tar
+Archive-description: HVR2300ImageCapture Component
+Element: HVR2300ImageCapture.xml
+Element: HVR2300ImageCapture.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/  
+Element: lib/ 
+Element: HVRcore.dll 
+Element: HVRcv.dll 
+Element: HVRhg.dll 
+Element: HVRLibV10.dll 
+Element: USB20VisionDLL_V13.dll 
+

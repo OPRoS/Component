@@ -1,0 +1,11 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: RGBToGray.tar
+Archive-description: RGBToGray Component
+Element: RGBToGray.xml
+Element: RGBToGray.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/
+
+

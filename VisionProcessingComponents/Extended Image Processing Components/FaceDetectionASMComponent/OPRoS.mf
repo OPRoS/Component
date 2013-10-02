@@ -1,0 +1,14 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: FaceDetectionASM.tar
+Archive-description: FaceDetectionASM Component
+Element: FaceDetectionASM.xml
+Element: FaceDetectionASM.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+Element: lib/ 
+Element: asmlibrary.dll 
+Element: asmlibraryD.dll 
+Element: my68-1d.amf 
+Element: haarcascade_frontalface_alt2.xml 

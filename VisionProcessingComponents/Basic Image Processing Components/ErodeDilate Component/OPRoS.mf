@@ -1,0 +1,9 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: ErodeDilate.tar
+Archive-description: ErodeDilate Component
+Element: ErodeDilate.xml
+Element: ErodeDilate.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 

@@ -1,0 +1,11 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: Chromakey.tar
+Archive-description: Chromakey Component
+Element: Chromakey.xml
+Element: Chromakey.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+Element: lib/ 
+Element: videoCapture.avi 

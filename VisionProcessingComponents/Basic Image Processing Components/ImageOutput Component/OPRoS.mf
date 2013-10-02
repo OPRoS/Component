@@ -1,0 +1,9 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: ImageOutput.tar
+Archive-description: ImageOutput Component
+Element: ImageOutput.xml
+Element: ImageOutput.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 

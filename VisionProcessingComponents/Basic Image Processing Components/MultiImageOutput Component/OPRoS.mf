@@ -1,0 +1,9 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: MultiImageOutput.tar
+Archive-description: MultiImageOutput Component
+Element: MultiImageOutput.xml
+Element: MultiImageOutput.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
