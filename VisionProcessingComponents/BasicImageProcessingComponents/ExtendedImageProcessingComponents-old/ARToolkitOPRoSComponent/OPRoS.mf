@@ -1,0 +1,16 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: ARToolkitOPRoS.tar
+Archive-description: ARToolkitOPRoS Component
+Element: ARToolkitOPRoS.xml
+Element: ARToolkitOPRoS.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+Element: camera/ 
+Element: lib/ 
+Element: marker/ 
+Element: vrml/ 
+Element: glew32.dll 
+Element: glut32.dll
+ 

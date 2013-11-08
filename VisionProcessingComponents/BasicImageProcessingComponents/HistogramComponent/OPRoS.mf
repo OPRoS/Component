@@ -1,0 +1,10 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: Histogram.tar
+Archive-description: Histogram Component
+Element: Histogram.xml
+Element: Histogram.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+

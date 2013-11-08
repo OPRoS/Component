@@ -1,0 +1,11 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: ImageEnhancementMask.tar
+Archive-description: ImageEnhancementMask Component
+Element: ImageEnhancementMask.xml
+Element: ImageEnhancementMask.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+
+

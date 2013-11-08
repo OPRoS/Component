@@ -1,0 +1,9 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: EdgeDetection.tar
+Archive-description: EdgeDetection Component
+Element: EdgeDetection.xml
+Element: EdgeDetection.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 

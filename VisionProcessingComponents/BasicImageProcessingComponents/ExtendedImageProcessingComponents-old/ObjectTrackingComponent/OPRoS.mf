@@ -1,0 +1,11 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: ObjectTracking.tar
+Archive-description: ObjectTracking Component
+Element: ObjectTracking.xml
+Element: ObjectTracking.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/
+
+

@@ -1,0 +1,10 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: FastFourierTransform.tar
+Archive-description: FastFourierTransform Component
+Element: FastFourierTransform.xml
+Element: FastFourierTransform.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+

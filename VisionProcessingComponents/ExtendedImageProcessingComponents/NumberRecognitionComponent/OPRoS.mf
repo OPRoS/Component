@@ -1,0 +1,21 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: NumberRecognition.tar
+Archive-description: NumberRecognition Component
+Element: NumberRecognition.xml
+Element: NumberRecognition.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+Element: lib/ 
+Element: 0.bmp 
+Element: 1.bmp 
+Element: 2.bmp 
+Element: 3.bmp 
+Element: 4.bmp 
+Element: 5.bmp 
+Element: 6.bmp 
+Element: 7.bmp 
+Element: 8.bmp 
+Element: 9.bmp 
+

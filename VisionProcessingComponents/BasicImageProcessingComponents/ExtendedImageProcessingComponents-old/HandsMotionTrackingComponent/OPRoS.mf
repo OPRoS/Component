@@ -1,0 +1,11 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: HandsMotionTracking.tar
+Archive-description: HandsMotionTracking Component
+Element: HandsMotionTracking.xml
+Element: HandsMotionTracking.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+Element: lib/ 
+Element: sample.avi 

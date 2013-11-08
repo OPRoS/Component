@@ -1,0 +1,9 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: ColorTracking.tar
+Archive-description: ColorTracking Component
+Element: ColorTracking.xml
+Element: ColorTracking.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 

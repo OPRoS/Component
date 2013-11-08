@@ -1,0 +1,11 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: Sharpening.tar
+Archive-description: Sharpening Component
+Element: Sharpening.xml
+Element: Sharpening.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/
+
+

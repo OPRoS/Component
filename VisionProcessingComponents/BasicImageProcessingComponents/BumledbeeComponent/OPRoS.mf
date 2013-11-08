@@ -1,0 +1,10 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: Brightness.tar
+Archive-description: Bumblebee Component
+Element: Bumblebee.xml
+Element: Bumblebee.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+

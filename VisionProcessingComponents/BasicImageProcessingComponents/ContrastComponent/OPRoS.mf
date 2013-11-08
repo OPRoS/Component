@@ -1,0 +1,9 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: Contrast.tar
+Archive-description: Contrast Component
+Element: Contrast.xml
+Element: Contrast.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 

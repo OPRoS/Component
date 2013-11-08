@@ -1,0 +1,10 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: FrequencyFilter.tar
+Archive-description: FrequencyFilter Component
+Element: FrequencyFilter.xml
+Element: FrequencyFilter.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+
