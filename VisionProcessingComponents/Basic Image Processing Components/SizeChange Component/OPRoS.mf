@@ -1,0 +1,11 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: SizeChange.tar
+Archive-description: SizeChange Component
+Element: SizeChange.xml
+Element: SizeChange.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/
+
+

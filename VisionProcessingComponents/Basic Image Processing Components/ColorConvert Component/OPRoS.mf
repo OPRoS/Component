@@ -1,0 +1,9 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: ColorConvert.tar
+Archive-description: ColorConvert Component
+Element: ColorConvert.xml
+Element: ColorConvert.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 

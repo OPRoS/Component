@@ -1,0 +1,11 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: ObjectTrackingByOpticalFlow.tar
+Archive-description: ObjectTrackingByOpticalFlow Component
+Element: ObjectTrackingByOpticalFlow.xml
+Element: ObjectTrackingByOpticalFlow.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/
+
+

@@ -1,0 +1,9 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: DistortionRevision.tar
+Archive-description: DistortionRevision Component
+Element: DistortionRevision.xml
+Element: DistortionRevision.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 

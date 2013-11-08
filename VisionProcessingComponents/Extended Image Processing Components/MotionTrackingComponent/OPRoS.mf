@@ -1,0 +1,9 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: MotionTracking.tar
+Archive-description: MotionTracking Component
+Element: MotionTracking.xml
+Element: MotionTracking.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 

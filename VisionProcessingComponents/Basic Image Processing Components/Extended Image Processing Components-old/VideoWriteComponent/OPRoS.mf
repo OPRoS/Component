@@ -1,0 +1,11 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: VideoWrite.tar
+Archive-description: VideoWrite Component
+Element: VideoWrite.xml
+Element: VideoWrite.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+
+

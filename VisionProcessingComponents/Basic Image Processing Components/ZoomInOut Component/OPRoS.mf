@@ -1,0 +1,11 @@
+Manifest-version: OPRoS_1.0
+Archive-type: OPRoS_Component
+Archive-name: ZoomInOut.tar
+Archive-description: ZoomInOut Component
+Element: ZoomInOut.xml
+Element: ZoomInOut.dll
+Element: doc/ 
+Element: preview/ 
+Element: src/ 
+
+
